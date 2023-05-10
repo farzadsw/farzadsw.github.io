@@ -1,0 +1,27 @@
+.banner {
+    background-color: blue;
+    color: white;
+    margin-top: 75px;
+    text-align: center;
+    padding: 100px;
+}
+
+#first-pic {
+    height: 100px;
+    background-image: url("https://images.unsplash.com/photo-1517245386807-9b4d0d6f9a2a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=3b3b5b2b5b0b0b0b0b0b0b0b0b0b0b0b&auto=format&fit=crop&w=1350&q=80");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#topic {
+    font-size: 100px;
+    margin-top: 50px;
+    color: greenyellow;
+
+}
+
+.bold {
+    font-weight: 900;
+}
+
